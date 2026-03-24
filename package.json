@@ -1,0 +1,16 @@
+{
+  "name": "workflow-render",
+  "version": "1.0.0",
+  "description": "Telegram Workflow Controller",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.16.3",
+    "mongoose": "^8.0.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
